@@ -1,7 +1,7 @@
 # AI_roadmap
 Tracking my learning progress
 
-# 🧠 AI Learning Roadmap (Jul–Sept 2025)
+# 🧠 AI Learning Roadmap 
 
 This repo tracks my 12-week journey from foundational AI/ML to GenAI and Agentic AI projects.
 
