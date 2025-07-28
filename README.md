@@ -9,8 +9,8 @@ This repo tracks my 12-week journey from foundational AI/ML to GenAI and Agentic
 
 | Week | Focus Area | Status |
 |------|-------------|--------|
-| 1 | ML Basics (scikit-learn) | 🔄 In Progress |
-| 2 | Deep Learning (PyTorch) | ⬜ |
+| 1 | ML Basics (scikit-learn) | Done |
+| 2 | Deep Learning (Tensorflow) | 🔄 In Progress |
 | 3 | CNNs & YOLOv10 | ⬜ |
 | 4 | Transformers & GPT | ⬜ |
 | 5 | Diffusion & GANs | ⬜ |
